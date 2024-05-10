@@ -7,7 +7,7 @@ from MikuXMusic.misc import dbb, heroku
 from .logging import LOGGER
 
 dirr()
-git()
+
 dbb()
 heroku()
 
